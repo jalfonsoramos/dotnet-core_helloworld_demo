@@ -1,0 +1,3 @@
+dotnet new //initialize dot net core
+dotnet restore //restore packages from project.json
+dotnet run //execute application
