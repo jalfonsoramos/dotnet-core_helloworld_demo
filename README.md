@@ -1,2 +1,2 @@
-# learn_dotnetcore-hello_world
+# dotnet-core_helloworld_demo
 Just a simple hello world using .Net Core
